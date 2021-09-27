@@ -1,1 +1,7 @@
-remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+theme: jekyll-theme-basically-basic
+lang: english
+url: henrieglesorotos.com
+author: 'Henri Egle Sorotos'
+logo: media/profile.png
+twitter_username: heglesorotos
+github_username: henrieglesorotos
