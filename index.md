@@ -26,4 +26,12 @@ author:
 - Singing choral music in chamber choirs
 - Learning to speak french  
 
+##### I have lived in:
+
+- Birmingham
+- Manchester
+- London (current)
+
+I am a proud Brummie! Birmingham is awesome. 
+
 
