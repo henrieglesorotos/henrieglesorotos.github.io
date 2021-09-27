@@ -1,6 +1,7 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 url: henrieglesorotos.com
 author: 'Henri Egle Sorotos'
+title: ""
 logo: media/profile.png
 twitter_username: heglesorotos
 github_username: henrieglesorotos
