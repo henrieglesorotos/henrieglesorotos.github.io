@@ -9,7 +9,7 @@ author:
 
 #### Hello...my name is Henri Egle Sorotos. 
 
-##### I do knowledge engineering for a scaleup in London, in the field of HR. At work, I'm interested in:
+##### I do knowledge engineering for a scaleup in London, in the field of HR. I have worked at a few HRTech startups, and tech sector things. At work, I'm interested in:
 
 - Graph databases 
 - Ontology design 
@@ -32,6 +32,8 @@ author:
 - Manchester
 - London (current)
 
-I am a proud Brummie! Birmingham is awesome. 
+I am a proud Brummie! Birmingham is awesome.
+
+##### Want to get in touch? [Drop me a line](https://twitter.com/HEgleSorotos)
 
 
