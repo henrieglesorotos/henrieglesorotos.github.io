@@ -7,7 +7,7 @@ author:
 ---
 
 
-#### Hello...my name is Henri Egle Sorotos. 
+#### Hello...my name is Henri. 
 
 ##### I do knowledge engineering for a scaleup in London, in the field of HR. I have worked at a few HRTech startups, and tech sector things. At work, I'm interested in:
 
@@ -25,6 +25,11 @@ author:
 - Playing mixed netball
 - Singing choral music in chamber choirs
 - Learning to speak french  
+
+##### A while a go I used to do some blogging:
+
+- [At Tech Nation on skills, people and companies](https://technation.io/news/author/henrieglesorotos/)
+- [On my personal linkedin](https://www.linkedin.com/in/henrieglesorotos/detail/recent-activity/posts/)
 
 ##### I have lived in:
 
