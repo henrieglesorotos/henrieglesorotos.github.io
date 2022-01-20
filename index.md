@@ -26,10 +26,12 @@ author:
 - Singing choral music in chamber choirs
 - Learning to speak french  
 
-##### A while a go I used to do some blogging:
+##### From time to time I do some blogging:
 
+- [At Beamery on semantic web and skills](https://medium.com/@henri.egle-sorotos)
 - [At Tech Nation on skills, people and companies](https://technation.io/news/author/henrieglesorotos/)
 - [On my personal linkedin](https://www.linkedin.com/in/henrieglesorotos/detail/recent-activity/posts/)
+ 
 
 ##### I have lived in:
 
@@ -37,7 +39,7 @@ author:
 - Manchester
 - London (current)
 
-I am a proud Brummie! Birmingham is awesome.
+I am a proud Brummie! Birmingham is awesome. #KRO #SOTV 
 
 ##### Want to get in touch? [Drop me a line](https://twitter.com/HEgleSorotos)
 
