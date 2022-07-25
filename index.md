@@ -9,13 +9,16 @@ author:
 
 #### Hello...my name is Henri. 
 
-##### I do knowledge engineering for a scaleup in London, in the field of HR. I have worked at a few HRTech startups, and tech sector things. At work, I'm interested in:
+##### I do knowledge engineering and AI work for a scaleup in London. I have previously worked at a few talent technology startups, and tech sector things. I ❤️ HR Technology. 
+
+##### At work, I'm interested in:
 
 - Graph databases 
 - Ontology design 
 - Entity reconciliation
 - Data provenance tools for semantic web 
 - Modelling skills, companies and occupations
+- Building data assets for sourcing and recruitment
 - Startup work culture
 - Startup hiring
 
@@ -24,7 +27,7 @@ author:
 - European public transport - trains and buses. Policy and infrastructure
 - Playing mixed netball
 - Singing choral music in chamber choirs
-- Learning to speak french  
+- Continuing learning to speak french  
 
 ##### From time to time I do some blogging:
 
