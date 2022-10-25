@@ -9,7 +9,7 @@ author:
 
 #### Hello...my name is Henri. 
 
-##### I do knowledge engineering and AI work for a scaleup in London. I have previously worked at a few talent technology startups, and tech sector things. I ❤️ HR Technology. 
+##### I do knowledge engineering and AI work for a scaleup in London - [Beamery](https://www.beamery.com/). I have previously worked at a few talent technology startups, and tech sector things. I ❤️ HR Technology. 
 
 ##### At work, I'm interested in:
 
@@ -31,7 +31,7 @@ author:
 
 ##### From time to time I do some blogging:
 
-- [At Beamery on semantic web and skills](https://medium.com/@henri.egle-sorotos)
+- [At Beamery on semantic web and skills](https://henri-egle-sorotos.medium.com/)
 - [At Tech Nation on skills, people and companies](https://technation.io/news/author/henrieglesorotos/)
 - [On my personal linkedin](https://www.linkedin.com/in/henrieglesorotos/detail/recent-activity/posts/)
  
