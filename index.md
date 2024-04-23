@@ -27,7 +27,7 @@ author:
 - European public transport - trains and buses. Policy and infrastructure
 - Playing mixed netball
 - Singing choral music in chamber choirs
-- Learning to speak Ελλενικα (was french)
+- Learning to speak  ελλενικα (was french)
 
 ##### From time to time I do some blogging:
 
