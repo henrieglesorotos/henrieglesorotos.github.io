@@ -37,9 +37,12 @@ My github is [here](https://github.com/henrieglesorotos)
 
 ##### From time to time I do some blogging/paper writing:
 
-- [At Beamery on semantic web and skills](https://henri-egle-sorotos.medium.com/)
-- [At Tech Nation on skills, people and companies](https://web.archive.org/web/20231005033555/https://technation.io/news/author/henrieglesorotos/) - from the web archive (slow to load)
-- [On my personal linkedin](https://www.linkedin.com/in/henrieglesorotos/detail/recent-activity/posts/)
+- Conference papers:
+  - [Beyond generic skills: creating capability-centric, company-specific knowledge graphs from job descriptions](https://ceur-ws.org/Vol-3828/paper42.pdf) - International Semantic Web Conference 2024
+  - [Rapid Graph Generation from Job Descriptions: combining Taxonomies and LLMs](https://2024.eswc-conferences.org/wp-content/uploads/2024/05/77770139.pdf) - Extended Semantic Web Conference 2024
+- [Beamery blog on semantic web and skills](https://henri-egle-sorotos.medium.com/)
+- [Very old stuff from Tech Nation on skills, people and companies](https://web.archive.org/web/20231005033555/https://technation.io/news/author/henrieglesorotos/) - from the web archive (slow to load)
+- [My personal linkedin](https://www.linkedin.com/in/henrieglesorotos/detail/recent-activity/posts/)
  
 
 ##### I have lived in:
