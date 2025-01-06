@@ -34,6 +34,7 @@ My github is [here](https://github.com/henrieglesorotos)
 - Playing mixed netball
 - Singing choral music in chamber choirs
 - Learning to speak  ελλενικα (was french)
+- NW5 and NW3 areas of London - I maintain a map of my favourite places in these areas [here](https://www.google.com/maps/d/edit?hl=en&mid=1IRBcRlhokGNFH0BctTJCT1jxr-iDY88&ll=51.5565598431128%2C-0.166764499999994&z=14)
 
 ##### From time to time I do some blogging/paper writing:
 
