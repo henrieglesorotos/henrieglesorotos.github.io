@@ -8,7 +8,7 @@ author:
 
 #### Hello...my name is Henri. 
 
-##### I do knowledge engineering and AI work for a scaleup in London - [Beamery](https://www.beamery.com/). I have previously worked at a few talent technology startups, and tech sector things. I ❤️ HR Technology. 
+##### I do knowledge engineering and AI work in London for a v. secretive company ;). I have previously worked at a few talent technology startups, and tech sector things. I ❤ knowledge graph ️tTechnology. 
 
 ##### At work, I'm interested in:
 
@@ -33,7 +33,7 @@ My github is [here](https://github.com/henrieglesorotos)
 - European public transport - trains and buses. Policy and infrastructure
 - Playing mixed netball
 - Singing choral music in chamber choirs
-- Learning to speak  ελλενικα (was french)
+- Learning to speak modern greek
 - NW5 and NW3 areas of London - I maintain a map of my favourite places in these areas [here](https://www.google.com/maps/d/edit?hl=en&mid=1IRBcRlhokGNFH0BctTJCT1jxr-iDY88&ll=51.5565598431128%2C-0.166764499999994&z=14)
 
 ##### From time to time I do some blogging/paper writing:
