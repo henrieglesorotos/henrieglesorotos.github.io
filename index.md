@@ -8,7 +8,7 @@ author:
 
 #### Hello...my name is Henri. 
 
-##### I do knowledge engineering and AI work in London for a v. secretive company ;). I have previously worked at a few talent technology startups, and tech sector things. I ❤ knowledge graph ️tTechnology. 
+##### I do knowledge engineering and AI work in London for a v. secretive company ;). I have previously worked at a few talent technology startups, and tech sector things. I ❤ knowledge graph ️technology. 
 
 ##### At work, I'm interested in:
 
