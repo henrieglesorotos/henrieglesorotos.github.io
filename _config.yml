@@ -1,10 +1,11 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
-url: henrieglesorotos.com
+url: "https://henrieglesorotos.com"
 author: "Henri Egle Sorotos"
 title: "Henri Egle Sorotos"
+description: "Knowledge engineer working across knowledge graphs, semantic technologies and applied AI in London."
 logo: media/profile.png
 twitter_username: heglesorotos
 github_username: henrieglesorotos
 lang: en-GB
 google_analytics: G-47L41Q1FVV
-copyright: "Henri Egle Sorotos, 2024"
+copyright: "Henri Egle Sorotos"
